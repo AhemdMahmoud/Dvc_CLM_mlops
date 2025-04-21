@@ -4,5 +4,5 @@ imblearn
 matplotlib
 seaborn
 joblib
-dvc == 3.59.1
-dvc[gdrive]
+dvc
+dvc-gdrive == 3.0.1
